@@ -1,5 +1,12 @@
 # 💫Oie! 🙃
-🔭 Estou: fazendo o curso Desenvolvedor Full Stack Python EBAC e faculdade de ADS.<br><br>🌱 Aprendendo: Jquery, Bootstrap e Sass<br><br>⚡ Curiosidade: Sou apaixonada por música, livros e tecnologia. Tenho 3 gatinhos, o Pipoca, Mel e Amora 🐱
+
+Estudante em transição de carreira para area tech, tenho 3 gatinhos, sou apaixonada por leitura, esportes e amo pagode!<br>
+
+Minhas experiências em outras áreas me proporcionaram contatos com a área de tencnologia,  o que despertou meu interesse e paixão pela área. 
+
+🔭 Estou: Estou estudando para me tornar desenvolvedora full stack python, cursando inglês e graduação em Análise e Desenvolvimento de Sistemas..<br>
+🌱 Aprendendo: Jquery, Bootstrap, Gulp, Grunt e TypeScript<br>
+
 
 
 ## 🌐 Socials:
