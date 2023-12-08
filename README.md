@@ -1,13 +1,14 @@
 # 💫Oie! 🙃
 
-Estudante em transição de carreira para area tech, tenho 3 gatinhos, sou apaixonada por leitura, esportes e amo pagode!<br>
+Desenvolvedor Full Stack Python em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em Análise e Desenvolvimento de Software. 
 
-Minhas experiências em outras áreas me proporcionaram contatos com a área de tencnologia,  o que despertou meu interesse e paixão pela área. 
+Profissional com perfil resiliente, foco em resultados e  aprendizado contínuo.
+Possuo experiência com mapeamento e padronização de processos .
 
-🔭 Estou: Estou estudando para me tornar desenvolvedora full stack python, cursando inglês e graduação em Análise e Desenvolvimento de Sistemas..<br>
-<br>
-🌱 Aprendendo: Jquery, Bootstrap, Gulp, Grunt e TypeScript<br>
+Conhecimento em HTML, CSS, Sass, Less, JavaScript, Gulp, Grunt, JQuery, Bootstrap, Git e Figma.
+Noções de automatização de testes e UX.
 
+Habilidades em evolução: Typescript | Vue | React | Angular | Python | Django Rest Framework | Docker | CircleCI | DevOps | SQL
 
 
 ## 🌐 Socials:
