@@ -8,7 +8,7 @@ Possuo experiência com mapeamento e padronização de processos .
 Conhecimento em HTML, CSS, Sass, Less, JavaScript, Gulp, Grunt, JQuery, Bootstrap, Git e Figma.
 Noções de automatização de testes e UX.
 
-Habilidades em evolução: Typescript | Vue | React | Angular | Python | Django Rest Framework | Docker | CircleCI | DevOps | SQL
+Habilidades em evolução: Typescript | React | NextJs | JavaScript |
 
 
 ## 🌐 Socials:
