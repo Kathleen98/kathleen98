@@ -6,15 +6,15 @@
 
 <h2 align="left">🚀 Sobre Mim</h2>
 <p  align="left">
-  Desenvolvedora fullstack apaixonada por tecnologia estou sempre buscando desenvolver não só o meu lado técnico quanto minha base de comunicação, algo que considero muito importante para qualquer ser humano.
+  Desenvolvedora fullstack apaixonada por tecnologia, estou sempre buscando desenvolver meu lado técnico e minha comunicação.
 </p>
+
 
 🎯 Foco atual: Desenvolvimento de plataformas educacionais e dashboards administrativos <br/>
 📚 Estudando: Express, Nest.JS e NextJS<br/>
 🌱 Sempre aprendendo: Novas tecnologias e melhores práticas<br/>
 
-
-
+<p style="font-size: 0.75rem;" >Conhecimento incha, mas a sabedoria é humilde, leve e sem aparência.</p>
 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="left">
