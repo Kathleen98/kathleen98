@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathleen98)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kethleen.santos15@gmail.com)
 
-📍 Jundiaí - SP | 📱 (11) 95825-1039
+📍 Jundiaí - SP 
 
 ---
 
@@ -85,7 +85,6 @@ Estou sempre aberta a novas oportunidades e colaborações. Se você tem um proj
 
 - **Email:** kethleen.santos15@gmail.com
 - **LinkedIn:** [kathleenc-santos](https://www.linkedin.com/in/kathleenc-santos)
-- **Telefone:** (11) 95825-1039
 
 ---
 
