@@ -1,24 +1,23 @@
-# 👋 Olá! Eu sou a Kathleen Santos
-
-**Desenvolvedora Full Stack** apaixonada por criar soluções que fazem diferença. Minha curiosidade me move a explorar cada desafio, seja construindo interfaces intuitivas, integrando APIs ou colaborando com times para entregar produtos de valor.
-
+# Olá, eu sou a Kathleen 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathleenc-santos)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathleen98)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kethleen.santos15@gmail.com)
 
 📍 Jundiaí - SP 
 
+Sou desenvolvedora **Fullstack** focada em construir produtos web com bases sólidas, tanto no front-end quanto no back-end.  
+Hoje meu trabalho gira em torno de React/Next.js no front e Node.js/NestJS com TypeScript no back, sempre tentando entender o “porquê” das decisões técnicas, e não só o “como” implementar.
+
+Ainda tenho muito a aprender, mas gosto de estudar com profundidade o que me proponho a usar em produção: arquitetura, boas práticas, testes, performance e experiência do usuário.
+
 ---
 
-## 🚀 Sobre Mim
+## 🧑‍💻 O que eu faço hoje
 
-Recentemente migrei para o desenvolvimento full stack e estou amando cada desafio. Acredito que a melhor tecnologia é aquela que resolve problemas reais de forma criativa e colaborativa.
-
-- 🎓 Cursando Engenharia de Software
-- 💼 Desenvolvedora Full Stack na CS Academy
-- 🎯 Foco em experiência do usuário e arquitetura escalável
-- 🤝 Trabalho próxima aos times de back-end para garantir integração eficiente
-- 📊 Participo ativamente do planejamento de Sprints e alinhamento de requisitos
+- Desenvolvimento de interfaces responsivas com **React** e **Next.js** (SSR/ISR), priorizando UX, performance e boas práticas de arquitetura front-end.  
+- Integração com **APIs RESTful**, definição de contratos entre front e back e colaboração com times de back-end.  
+- Organização do trabalho em times ágeis (Scrum/Kanban), ajudando a detalhar tarefas técnicas e a traduzir requisitos de negócio em soluções implementáveis.  
+- Mentoria técnica em front-end, revisão de código e disseminação de boas práticas de UI/UX.
 
 ---
 
@@ -46,46 +45,28 @@ Recentemente migrei para o desenvolvimento full stack e estou amando cada desafi
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🚀 Projetos que me ajudaram a crescer
 
-### 📚 MVP MBA | Pós-Graduação
-Projeto focado na criação do primeiro MBA/Pós-graduação da empresa, com rentabilidade estimada de até 1 milhão no primeiro ano.
+### Plataforma de Rali Gamificada (API – projeto pessoal)
 
-**Impacto:** Produto de alta relevância estratégica para o negócio
+API em NestJS para uma plataforma de ralis gamificados, onde administradores criam ralis com início/fim, desafios com pontuação, penalidades e ranking em tempo real.
 
----
+- Node.js + NestJS + TypeScript  
+- Prisma ORM + PostgreSQL  
+- Autenticação JWT  
+- Upload de imagens com Cloudinary  
+- Foco em arquitetura modular e regras de negócio bem modeladas
 
-### 📊 MVP Business Dashboard
-Dashboard voltada para clientes do plano Business, oferecendo visões estratégicas sobre consumo de conteúdo e performance das equipes.
+> Repositório: [https://github.com/Kathleen98/rali]
 
-**Impacto:** Retenção de clientes B2B e insights acionáveis
+### MVP Business · Dashboard B2B
 
----
+- Modernização de uma dashboard B2B em Next.js (migração de versão, SSR/ISR, arquitetura modular).  
+- Melhoria de SEO, redução do tempo de desenvolvimento de novas features e impacto positivo na retenção de clientes.
 
-### 🎓 Trilhas de Aprendizagem
-Plataforma de aprendizagem voltada para CS (Customer Success) e CX (Customer Experience).
+### Trilhas de Aprendizagem
 
-**Impacto:** Experiência, retenção e desenvolvimento contínuo dos usuários
+- Criação de trilhas de estudo dentro de uma plataforma educacional para melhorar navegação e engajamento.  
+- Impacto em uso recorrente da plataforma e renovação de cliente corporativo de alto valor.
 
----
 
-## 🌱 O que me motiva
-
-- Resolver problemas de forma criativa e colaborativa
-- Criar interfaces que fazem sentido para quem usa
-- Conectar dados em tempo real através de APIs
-- Trabalhar próxima aos stakeholders para entender as reais necessidades
-- Aprender constantemente no processo
-
----
-
-## 📫 Vamos conversar?
-
-Estou sempre aberta a novas oportunidades e colaborações. Se você tem um projeto interessante ou quer trocar ideias sobre tecnologia, entre em contato!
-
-- **Email:** kethleen.santos15@gmail.com
-- **LinkedIn:** [kathleenc-santos](https://www.linkedin.com/in/kathleenc-santos)
-
----
-
-⭐️ *"Unindo código e comunicação para resolver problemas reais"*
