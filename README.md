@@ -43,30 +43,4 @@ Ainda tenho muito a aprender, mas gosto de estudar com profundidade o que me pro
 ![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
----
-
-## 🚀 Projetos que me ajudaram a crescer
-
-### Plataforma de Rali Gamificada (API – projeto pessoal)
-
-API em NestJS para uma plataforma de ralis gamificados, onde administradores criam ralis com início/fim, desafios com pontuação, penalidades e ranking em tempo real.
-
-- Node.js + NestJS + TypeScript  
-- Prisma ORM + PostgreSQL  
-- Autenticação JWT  
-- Upload de imagens com Cloudinary  
-- Foco em arquitetura modular e regras de negócio bem modeladas
-
-> Repositório: [https://github.com/Kathleen98/rali]
-
-### MVP Business · Dashboard B2B
-
-- Modernização de uma dashboard B2B em Next.js (migração de versão, SSR/ISR, arquitetura modular).  
-- Melhoria de SEO, redução do tempo de desenvolvimento de novas features e impacto positivo na retenção de clientes.
-
-### Trilhas de Aprendizagem
-
-- Criação de trilhas de estudo dentro de uma plataforma educacional para melhorar navegação e engajamento.  
-- Impacto em uso recorrente da plataforma e renovação de cliente corporativo de alto valor.
-
 
