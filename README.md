@@ -14,10 +14,12 @@ Ainda tenho muito a aprender, mas gosto de estudar com profundidade o que me pro
 
 ## 🧑‍💻 O que eu faço hoje
 
-- Desenvolvimento de interfaces responsivas com **React** e **Next.js** (SSR/ISR), priorizando UX, performance e boas práticas de arquitetura front-end.  
-- Integração com **APIs RESTful**, definição de contratos entre front e back e colaboração com times de back-end.  
-- Organização do trabalho em times ágeis (Scrum/Kanban), ajudando a detalhar tarefas técnicas e a traduzir requisitos de negócio em soluções implementáveis.  
-- Mentoria técnica em front-end, revisão de código e disseminação de boas práticas de UI/UX.
+Desenvolvo e evoluo aplicações full stack em produtos B2B e educacionais, atuando em time multifuncional.
+Construo interfaces modernas, responsivas e acessíveis com React, Next.js (SSR/ISR), TypeScript e Tailwind CSS, com foco em UX, performance e padronização de componentes.
+
+Projeto e mantenho integrações com APIs RESTful para consumo e manipulação de dados em tempo real, colaborando na definição de contratos de API, responsabilidades entre camadas e desenho da arquitetura.
+
+Adoto a metodologia spec-driven development, partindo de especificações claras para guiar a implementação, e utilizo ferramentas de Inteligência Artificial como apoio no fluxo de desenvolvimento, acelerando entregas, apoiando a escrita de código e a criação de testes.
 
 ---
 
