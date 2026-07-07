@@ -1,48 +1,72 @@
-# Olá, eu sou a Kathleen 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathleenc-santos)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathleen98)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kethleen.santos15@gmail.com)
+<div align="center">
 
-📍 Jundiaí - SP 
+# Kathleen Santos
 
-Sou desenvolvedora **Fullstack** focada em construir produtos web com bases sólidas, tanto no front-end quanto no back-end.  
-Hoje meu trabalho gira em torno de React/Next.js no front e Node.js/NestJS com TypeScript no back, sempre tentando entender o “porquê” das decisões técnicas, e não só o “como” implementar.
+**Desenvolvedora de Software | Software Developer**
 
-Ainda tenho muito a aprender, mas gosto de estudar com profundidade o que me proponho a usar em produção: arquitetura, boas práticas, testes, performance e experiência do usuário.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
 
----
+[🇧🇷 Português](#-sobre-mim) · [🇺🇸 English](#-about-me)
 
-## 🧑‍💻 O que eu faço hoje
-
-Desenvolvo e evoluo aplicações full stack em produtos B2B e educacionais, atuando em time multifuncional.
-Construo interfaces modernas, responsivas e acessíveis com React, Next.js (SSR/ISR), TypeScript e Tailwind CSS, com foco em UX, performance e padronização de componentes.
-
-Projeto e mantenho integrações com APIs RESTful para consumo e manipulação de dados em tempo real, colaborando na definição de contratos de API, responsabilidades entre camadas e desenho da arquitetura.
-
-Adoto a metodologia spec-driven development, partindo de especificações claras para guiar a implementação, e utilizo ferramentas de Inteligência Artificial como apoio no fluxo de desenvolvimento, acelerando entregas, apoiando a escrita de código e a criação de testes.
+</div>
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 🇧🇷 Sobre mim
 
-### Front-end
+Desenvolvedora de Software com experiência em **produtos B2B** e integração de front-end a **micro-serviços REST**. Especialista em construir interfaces modernas, responsivas (mobile-first) e acessíveis com **React** e **Next.js**, aplicando cultura de código limpo, princípios **SOLID**, revisões de código e testes unitários.
+
+- 🎓 Cursando **Engenharia de Software**
+- 💼 Desenvolvedora Fullstack na **CS Academy**
+- 🚀 Liderei a modernização de uma dashboard B2B em Next.js (SSR/ISR) com arquitetura modular, melhorando SEO e tempo de desenvolvimento
+- 📈 Propus e liderei uma feature de trilhas de aprendizagem que alcançou **400+ usuários ativos em 2 meses**, contribuindo para a renovação de um cliente corporativo
+- 📊 Implementei integração com **Google Analytics** para suporte a decisões de produto baseadas em dados
+
+## 🇺🇸 About me
+
+Software Developer experienced in **B2B products** and front-end integration with **REST microservices**. Specialized in building modern, responsive (mobile-first), and accessible interfaces with **React** and **Next.js**, following clean code culture, **SOLID** principles, code reviews, and unit testing.
+
+- 🎓 Pursuing a degree in **Software Engineering**
+- 💼 Fullstack Developer at **CS Academy**
+- 🚀 Led the modernization of a B2B dashboard in Next.js (SSR/ISR) with modular architecture, improving SEO and development speed
+- 📈 Proposed and led a learning-paths retention feature that reached **400+ active users in 2 months**, contributing to a corporate client renewal
+- 📊 Implemented **Google Analytics** integration to support data-driven product decisions
+
+---
+
+## 🛠️ Tecnologias | Tech Stack
+
+**Front-end**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+**Back-end & Dados | Back-end & Data**
 
-### Back-end & APIs
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NESTJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Qualidade & Ferramentas | Quality & Tools**
 
-### Ferramentas & Metodologias
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
+
+<!-- Quando fizer o deploy da sua própria instância do github-readme-stats no Vercel,
+     troque "github-readme-stats.vercel.app" pela URL do seu projeto nas duas imagens abaixo. -->
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kathleen98&show_icons=true&theme=default&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathleen98&layout=compact)
+
+</div>
