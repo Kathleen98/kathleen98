@@ -46,6 +46,8 @@ Software Developer experienced in **B2B products** and front-end integration wit
 
 **Back-end & Dados | Back-end & Data**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
@@ -57,16 +59,4 @@ Software Developer experienced in **B2B products** and front-end integration wit
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<!-- Quando fizer o deploy da sua própria instância do github-readme-stats no Vercel,
-     troque "github-readme-stats.vercel.app" pela URL do seu projeto nas duas imagens abaixo. -->
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kathleen98&show_icons=true&theme=default&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathleen98&layout=compact)
-
-</div>
