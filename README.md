@@ -1,6 +1,6 @@
 # Olá, eu sou a Kathleen 👋
 
-Desenvolvedora de Software de Jundiaí, SP, com mais de 2 anos de experiência em produtos B2B e SaaS. Meu foco é back-end e banco de dados.
+Desenvolvedora de Software de Jundiaí, SP, com mais de 2 anos de experiência em produtos B2B e SaaS. Meu foco é back-end e banco de dados e AI.
 
 [🇺🇸 English version](#hi-im-kathleen-)
 
