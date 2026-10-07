@@ -24,7 +24,7 @@ Desenvolvedora de Software de Jundiaí, SP, com mais de 2 anos de experiência e
 
 # Hi, I'm Kathleen 👋
 
-Software Developer from Jundiaí, Brazil, with 2+ years of experience in B2B and SaaS products. My focus is back-end and databases.
+Software Developer from Jundiaí, Brazil, with 2+ years of experience in B2B and SaaS products. My focus is back-end , databases and AI.
 
 ## 🔭 Currently
 
