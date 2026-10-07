@@ -1,62 +1,72 @@
-<div align="center">
+# Olá, eu sou a Kathleen 👋
 
-# Kathleen Santos
+Desenvolvedora de Software de Jundiaí, SP, com mais de 2 anos de experiência em produtos B2B e SaaS. Meu foco é back-end e banco de dados.
 
-**Desenvolvedora de Software | Software Developer**
+[🇺🇸 English version](#hi-im-kathleen-)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+## 🔭 Atualmente
 
-[🇧🇷 Português](#-sobre-mim) · [🇺🇸 English](#-about-me)
+- Trabalhando em um produto SaaS que centraliza conversas com clientes e usa IA para analisar atendimento e saúde da carteira
+- Estudando Java e Python para Inteligência Artificial (bootcamp)
+- Construindo um ledger em Java, que vai evoluir com Spring Boot e servir de base para um projeto com IA
+- Cursando Engenharia de Software
 
-</div>
+## 💼 Experiência
 
----
-
-## 🇧🇷 Sobre mim
-
-Desenvolvedora de Software com experiência em **produtos B2B** e integração de front-end a **micro-serviços REST**. Especialista em construir interfaces modernas, responsivas (mobile-first) e acessíveis com **React** e **Next.js**, aplicando cultura de código limpo, princípios **SOLID**, revisões de código e testes unitários.
-
-- 🎓 Cursando **Engenharia de Software**
-- 💼 Desenvolvedora Fullstack na **CS Academy**
-- 🚀 Liderei a modernização de uma dashboard B2B em Next.js (SSR/ISR) com arquitetura modular, melhorando SEO e tempo de desenvolvimento
-- 📈 Propus e liderei uma feature de trilhas de aprendizagem que alcançou **400+ usuários ativos em 2 meses**, contribuindo para a renovação de um cliente corporativo
-- 📊 Implementei integração com **Google Analytics** para suporte a decisões de produto baseadas em dados
-
-## 🇺🇸 About me
-
-Software Developer experienced in **B2B products** and front-end integration with **REST microservices**. Specialized in building modern, responsive (mobile-first), and accessible interfaces with **React** and **Next.js**, following clean code culture, **SOLID** principles, code reviews, and unit testing.
-
-- 🎓 Pursuing a degree in **Software Engineering**
-- 💼 Fullstack Developer at **CS Academy**
-- 🚀 Led the modernization of a B2B dashboard in Next.js (SSR/ISR) with modular architecture, improving SEO and development speed
-- 📈 Proposed and led a learning-paths retention feature that reached **400+ active users in 2 months**, contributing to a corporate client renewal
-- 📊 Implemented **Google Analytics** integration to support data-driven product decisions
+- **Arquitetura:** propus a arquitetura hexagonal de um produto SaaS, para adicionar integrações sem afetar o núcleo da aplicação nem os testes
+- **Banco de dados:** modelei o banco de dados com regras de negócio e controle de acesso via Row Level Security
+- **Autenticação:** implementei o login com AWS Cognito
+- **Front-end e UX:** desenvolvi as telas e defini o contexto e os objetivos de cada página e componente
+- **Produto:** liderei uma feature de trilhas de aprendizagem que chegou a 400+ usuários ativos em 2 meses
+- **Dados:** implementei o rastreamento de eventos com Google Analytics para apoiar decisões de produto
 
 ---
 
-## 🛠️ Tecnologias | Tech Stack
+# Hi, I'm Kathleen 👋
 
-**Front-end**
+Software Developer from Jundiaí, Brazil, with 2+ years of experience in B2B and SaaS products. My focus is back-end and databases.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## 🔭 Currently
 
-**Back-end & Dados | Back-end & Data**
+- Working on a SaaS product that centralizes customer conversations and uses AI to analyze support quality and customer portfolio health
+- Studying Java and Python for Artificial Intelligence (bootcamp)
+- Building a ledger in Java, which will move to Spring Boot and serve as the base for an AI project
+- Pursuing a degree in Software Engineering
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+## 💼 Experience
 
-**Qualidade & Ferramentas | Quality & Tools**
+- **Architecture:** proposed the hexagonal architecture of a SaaS product, so new integrations plug in without affecting the application core or its tests
+- **Database:** modeled the database with business rules and access control via Row Level Security
+- **Authentication:** implemented login with AWS Cognito
+- **Front-end and UX:** built the screens and defined the context and goals of each page and component
+- **Product:** led a learning-paths feature that reached 400+ active users in 2 months
+- **Data:** implemented event tracking with Google Analytics to support product decisions
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+---
 
+## 🔧 Tecnologias | Tech Stack
 
+**Back-end e dados:**
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/-AWS_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Front-end:**
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Qualidade e ferramentas:**
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+
+## 📫 Contato | Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
